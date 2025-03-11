@@ -1,0 +1,8 @@
+# Exclude test.cpp and any test.* formats
+test.*
+# Exclude new.cpp and any new.* formats
+new.*
+# Eexclude Logs dir and any log files
+Logs/*.log
+#Exclude .vscode directory
+.vscode/
