@@ -1,3 +1,5 @@
+# Exclude all .exe files
+*.exe
 # Exclude test.cpp and any test.* formats
 test.*
 # Exclude new.cpp and any new.* formats
