@@ -6,5 +6,6 @@ test.*
 new.*
 # Eexclude Logs dir and any log files
 Logs/*.log
+*.log
 #Exclude .vscode directory
 .vscode/
