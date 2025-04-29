@@ -9,5 +9,7 @@ Logs/*.log
 *.log
 #Exclude .vscode directory
 .vscode/
+# Exclude sketches directory
+sketches/
 #Exclude .txt files(for now)
 *.txt
