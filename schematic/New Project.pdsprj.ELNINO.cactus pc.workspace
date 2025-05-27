@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <WORKSPACE>
- <FRAME activewindow="0">
-  <PLACEMENT>2c0000000200000003000000ffffffffffffffffffffffffffffffff93030000000000008007000014040000</PLACEMENT>
+ <FRAME activewindow="2">
+  <PLACEMENT>2c00000002000000020000000083ffff0083ffffffffffffffffffff93030000000000008007000014040000</PLACEMENT>
   <WINDOW type="default" module="ISIS">
-   <editor metric="0" gridmajor="2540000" mode="00000000" zoom="0" scale="84" flipped="0" gridminor="254000" gridmode="32" snapidx="2" snap="254000" xcursor="0" orgmode="0" snaprange="151190">
+   <editor metric="0" gridmajor="2540000" mode="00000000" zoom="0" scale="82" flipped="0" gridminor="254000" gridmode="32" snapidx="2" snap="254000" xcursor="0" orgmode="0" snaprange="154878">
     <world y1="-8890000" x1="-12700000" y2="8890000" x2="12700000"/>
-    <centre x="16256000" y="-3066143"/>
+    <centre x="8607089" y="1292716"/>
     <origin x="0" y="0"/>
    </editor>
   </WINDOW>
@@ -17,7 +17,7 @@
    </editor>
   </WINDOW>
   <WINDOW type="default" module="VSMSTUDIO">
-   <STATE NAME="EDIT" VALUE="AAAA/wAAAAH9AAAAAgAAAAAAAADIAAADTvwCAAAAAvsAAAAQAFAAcgBvAGoAZQBjAHQAcwEAAAAAAAADTgAAASwA////+wAAABQAUAByAG8AcABlAHIAdABpAGUAcwAAAAJ8AAAAqAAAAGQA////AAAAAwAAB3gAAABm/AEAAAAB/AAAAAAAAAd4AAAAUAD////6AAAAAAEAAAAC+wAAACAATwB1AHQAcAB1AHQARABvAGMAawBXAGkAZABnAGUAdAEAAAAA/////wAAAFAA////+wAAACIAQgByAGUAYQBrAHAAbwBpAG4AdABzAFcAaQBuAGQAbwB3AAAAAAD/////AAAAUAD///8AAAasAAADTgAAAAEAAAACAAAACAAAAAL8AAAAAA=="/>
+   <STATE NAME="EDIT" VALUE="AAAA/wAAAAH9AAAAAgAAAAD////8/////PwCAAAAAvsAAAAQAFAAcgBvAGoAZQBjAHQAcwEAAAAA/////gAAASwA////+wAAABQAUAByAG8AcABlAHIAdABpAGUAcwAAAAJ8AAAAqAAAAGQA////AAAAAwAAAAAAAAAA/AEAAAAB/AAAAAAAAAAAAAAAUAD////6AAAAAAEAAAAC+wAAACAATwB1AHQAcAB1AHQARABvAGMAawBXAGkAZABnAGUAdAEAAAAA/////wAAAFAA////+wAAACIAQgByAGUAYQBrAHAAbwBpAG4AdABzAFcAaQBuAGQAbwB3AAAAAAD/////AAAAUAD///8AAAAAAAAAAAAAAAEAAAACAAAACAAAAAL8AAAAAA=="/>
    <PROJECT ACTIVE="TRUE" NAME="ARDUINO_UNO_1" CONFIGURATION="Debug">
     <PROGRAMMER NAME="AVRDUDE" INTERFACE="Arduino (ATmega328)">
      <PROPERTY NAME="PORT" VALUE="COM12"/>
@@ -36,9 +36,9 @@
   </editor>
  </MODULE>
  <MODULE name="ISIS">
-  <editor metric="0" gridmajor="2540000" mode="00000000" zoom="0" scale="84" flipped="0" gridminor="254000" gridmode="32" snapidx="2" snap="254000" xcursor="0" orgmode="0" snaprange="151190">
+  <editor metric="0" gridmajor="2540000" mode="00000000" zoom="0" scale="82" flipped="0" gridminor="254000" gridmode="32" snapidx="2" snap="254000" xcursor="0" orgmode="0" snaprange="154878">
    <world y1="-8890000" x1="-12700000" y2="8890000" x2="12700000"/>
-   <centre x="16256000" y="-3066143"/>
+   <centre x="8607089" y="1292716"/>
    <origin x="0" y="0"/>
   </editor>
  </MODULE>
